@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/PCU/IPDM/SMT 3/Potato-after-incident/Content/Asset/Enemies/WalkingMeleeEnemy/Level1/BP_Knife.uasset",
 				"D:/PCU/IPDM/SMT 3/Potato-after-incident/Content/BossLevelIni.umap",
 				"D:/PCU/IPDM/SMT 3/Potato-after-incident/Content/Level3.umap",
@@ -174,6 +175,11 @@
 				"D:/PCU/IPDM/SMT 3/Potato-after-incident/Content/Asset/Potat/PM_NoBounce.uasset",
 				"D:/PCU/IPDM/SMT 3/Potato-after-incident/Content/Asset/Potat/BP_Potat.uasset",
 				"D:/PCU/IPDM/SMT 3/Potato-after-incident/Content/Asset/Enemies/WalkingMeleeEnemy/BP_WalkingMelee.uasset"
+=======
+				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/BossLevelIni.umap",
+				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/Boss/BP_Mariano.uasset",
+				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/_GENERATED/Cheryl/CubeGridToolOutput_8A7FB573.uasset"
+>>>>>>> f68143f51b731b8a56ad8d37d5ec3262905121a7
 			]
 		}
 	]
