@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/hp/Documents/Unreal Projects/Potato-after-incident/Content/Asset/UI/BP_controler.uasset",
+				"C:/Users/hp/Documents/Unreal Projects/Potato-after-incident/Content/Asset/UI/WB_game.uasset",
 				"D:/PCU/IPDM/SMT 3/Potato-after-incident/Content/Asset/Enemies/WalkingMeleeEnemy/BTT_MoveToPath.uasset",
 				"D:/PCU/IPDM/SMT 3/Potato-after-incident/Content/MapbuatTest.umap",
 				"D:/PCU/IPDM/SMT 3/Potato-after-incident/Content/Asset/Enemies/WalkingRangedEnemy/BP_WalkingRanged.uasset",
