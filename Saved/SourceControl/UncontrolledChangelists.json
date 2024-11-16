@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/hp/Documents/Unreal Projects/Potato-after-incident/Content/__ExternalActors__/MainLevel/2/GU/A410C44T5ODE6LI3KUHOEH.uasset",
 				"C:/Users/hp/Documents/Unreal Projects/Potato-after-incident/Content/Asset/Enemies/WalkingMeleeEnemy/Level1/BP_Knife.uasset",
 				"C:/Users/hp/Documents/Unreal Projects/Potato-after-incident/Content/Asset/Enemies/WalkingMeleeEnemy/Level3/BP_Plunger.uasset",
@@ -24,6 +25,13 @@
 				"C:/Users/hp/Documents/Unreal Projects/Potato-after-incident/Content/Asset/Enemies/WalkingRangedEnemy/AnimSequences/AS_soapAttck.uasset",
 				"C:/Users/hp/Documents/Unreal Projects/Potato-after-incident/Content/Asset/Enemies/WalkingRangedEnemy/AnimSequences/AS_soapIdle.uasset",
 				"C:/Users/hp/Documents/Unreal Projects/Potato-after-incident/Content/Asset/Enemies/WalkingRangedEnemy/Level3/ABP_soap.uasset",
+=======
+				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/WalkingRangedEnemy/BP_Chilli.uasset",
+				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/WalkingRangedEnemy/BP_WalkingRanged.uasset",
+				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/WalkingRangedEnemy/BPA_ChilliBullet.uasset",
+				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Potat/BPA_ChilliAmmo.uasset",
+				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/WalkingRangedEnemy/BPA_ChilliAmmo.uasset",
+>>>>>>> Stashed changes
 				"D:/PCU/IPDM/SMT 3/Potato-after-incident/Content/Asset/Enemies/WalkingMeleeEnemy/BTT_MoveToPath.uasset",
 				"D:/PCU/IPDM/SMT 3/Potato-after-incident/Content/MapbuatTest.umap",
 				"D:/PCU/IPDM/SMT 3/Potato-after-incident/Content/Asset/Enemies/WalkingRangedEnemy/BP_WalkingRanged.uasset",
