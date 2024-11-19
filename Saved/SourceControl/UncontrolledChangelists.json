@@ -5,16 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/StatusEffectEnemy/SFXnya/Niagara/NS_Fire.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/StatusEffectEnemy/SFXnya/Niagara/NS_Paralyze.uasset"
-=======
-				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/StatusEffectEnemy/Level1/BP_Chilli.uasset",
-				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/WalkingRangedEnemy/BP_Chilli.uasset",
-				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/StatusEffectEnemy/Level1/BPA_ChilliAmmo.uasset",
-				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/WalkingRangedEnemy/BPA_ChilliAmmo.uasset",
+				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/WalkingRangedEnemy/BP_WalkingRanged.uasset",
 				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/MapbuatTest.umap"
->>>>>>> Stashed changes
 			]
 		}
 	]
