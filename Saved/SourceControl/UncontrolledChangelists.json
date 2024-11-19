@@ -24,12 +24,16 @@
 				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/NPCs/Camphor/Camphor_idle_1.uasset",
 				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/NPCs/Camphor/Camphor_idle_2.uasset",
 				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/FlyingEnemy/BPC_FlyingEnemyZD.uasset",
-				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/FlyingEnemy/BPC_Fryer.uasset",
 				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/FlyingEnemy/Level1/BPC_Fryer.uasset",
-				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/FlyingEnemy/Level1/BP_Fryer.uasset",
-				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/FlyingEnemy/BPC_Poop.uasset",
 				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/FlyingEnemy/Level3/BPC_Poop.uasset",
-				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/WalkingRangedEnemy/Level1/BP_PotatoPeeler.uasset"
+				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/WalkingRangedEnemy/Level1/BP_PotatoPeeler.uasset",
+				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/FlyingEnemy/Level1/BPA_PotatoSkin.uasset",
+				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/FlyingEnemy/Level1/BPA_Oil.uasset",
+				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/FlyingEnemy/BPA_Poopy.uasset",
+				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/FlyingEnemy/Level3/BPA_Poopy.uasset",
+				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/FlyingEnemy/BPC_Fryer.uasset",
+				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/FlyingEnemy/Level1/BP_Fryer.uasset",
+				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/FlyingEnemy/BPC_Poop.uasset"
 			]
 		}
 	]
