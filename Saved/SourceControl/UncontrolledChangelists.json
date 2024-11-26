@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/hp/Documents/Unreal Projects/Potato-after-incident/Content/Asset/Potat/BP_Potat.uasset",
+				"C:/Users/hp/Documents/Unreal Projects/Potato-after-incident/Content/Asset/UI/WB_game.uasset",
+				"C:/Users/hp/Documents/Unreal Projects/Potato-after-incident/Content/__ExternalActors__/MainLevel/A/OJ/B5FOCL6VF76VXVHWQN04RI.uasset",
+				"C:/Users/hp/Documents/Unreal Projects/Potato-after-incident/Content/__ExternalActors__/MainLevel/7/K6/9AV9SMXWC80E9BRKN5UG7D.uasset",
 				"D:/PCU/IPDM/SMT 3/Potato-after-incident/Content/BossLevelIni.umap",
 				"D:/PCU/IPDM/SMT 3/Potato-after-incident/Content/Asset/Enemies/Boss/BP_Mariano.uasset",
 				"D:/PCU/IPDM/SMT 3/Potato-after-incident/Content/_GENERATED/Cheryl/CubeGridToolOutput_8A7FB573.uasset",
