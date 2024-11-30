@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Level1.umap",
 				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/Untitled/C/VR/0LAVFHBFPQHWQIE58DO5WF.uasset",
 				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/NPCs/Tomato/BP_Tomato.uasset",
@@ -43,6 +44,13 @@
 				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/9/IL/8ITBE4LBNVJYGS2FOSX8RV.uasset",
 				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/UI/WB_Level1.uasset",
 				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/Potat/BP_Potat.uasset"
+=======
+				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/StatusEffectEnemy/Level1/BP_Chilli.uasset",
+				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/BossLevelIni.umap",
+				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/Boss/BP_ChilliHand.uasset",
+				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Level1.umap",
+				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/WalkingRangedEnemy/BP_WalkingRanged.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
