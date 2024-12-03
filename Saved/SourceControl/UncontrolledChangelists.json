@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/BUFFS/Buffs/BP_BuffBase.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/UI/WB_BuffUI.uasset",
 				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/NPCs/Lettuce/WB_LettuceDialogue.uasset",
 				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/7/7J/NW6P8J2ADE2QJDJ6GQ6AR8.uasset",
 				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/NPCs/Lettuce/lettuce_dialogue.uasset",
@@ -41,6 +40,10 @@
 				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/NPCs/Tomato/tomat_dialogue.uasset",
 				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/NPCs/Corn/corn_dialogue.uasset",
 				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/NPCs/ketchupMustard/ketchup_n_mustard_dialogue.uasset",
+				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/UI/WB_Paralyze.uasset",
+				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/UI/WB_Freeze.uasset",
+				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/6/YP/K04O2Q4GOR1LC3QYK9N8LH.uasset",
+				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/UI/WB_BuffUI.uasset",
 				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/0/XO/O139KQ9HE1M64Z3FR5L1Z0.uasset",
 				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/6/G9/WLWVG9HOZFBTOTGN8M8VQS.uasset",
 				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/B/21/LWE4R8MSWG2ZEJXDGOD19A.uasset",
