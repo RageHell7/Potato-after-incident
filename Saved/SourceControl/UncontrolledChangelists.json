@@ -5,52 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Level1.umap",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/Untitled/C/VR/0LAVFHBFPQHWQIE58DO5WF.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/NPCs/Tomato/BP_Tomato.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/E/TM/CFQ65K5M79AY6WSL11RBUG.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/A/OJ/B5FOCL6VF76VXVHWQN04RI.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/A/AL/A4BH1E39PLIM2ZKWPXIBDO.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/7/X6/SYCCDXALB3P56Z00LH84SW.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/7/K6/9Y799G600BISM0OG5T20TO.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/4/UI/AO2LL23YW1BLIO4Y0B6YQ3.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/7/XA/SY9WEWAPI60HIF34FWELH7.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/E/Y6/JDK4KSYM36DHNWL9HKLPO7.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/9/WF/2ED5OGR5EM6ST25Z5NPMSO.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/0/UI/6085LFO7KATWVW1EGBXPMG.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/E/2D/WOI59IEO5J6Y1O9VDQU2IS.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/A/XG/ZFYRNBIPWM44GE9DJJQMQR.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/5/X8/CEN6P9KS9JXWN7F9YRCHZ8.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/1/O5/4KYDT8MIN7YFUAGSHVFURL.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/E/XG/U4TEH0UC6GKKJIOLA1LBHB.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/8/TN/BCRPGWPCDL9UWHMDOY9T4C.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/2/EG/AH3MB4JA1T8CF8RN519IAV.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/0/KE/8GGI14K8XL0MASS1Z029KJ.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/0/JX/YD0SH211W5KE5RO8CHNPHI.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/6/4X/PZPTH8HCM2NL3OFSYNVV46.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/B/PD/UXT2LR7TBN5HAUEPCPRQUD.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/8/1B/LVCB995LVSCYV52I3NUDTD.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/2/E4/CB8FJLQADPIWL7H8EUUU3K.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/E/K9/LK6UVCDP1AGB1T1SJ5IK05.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/A/8Y/A807XBNDVF95W5SFKYN32C.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/7/WB/O4KNASVUKYK5PT3DCB1PTK.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/7/K6/9AV9SMXWC80E9BRKN5UG7D.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/6/QO/Z94S9MS44EQPVG1O4JGLSZ.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/3/UB/9X9E1UGR8XXP04FYUARY5G.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/5/L3/Y307TAWVA39GE7DHIIBJS8.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/9/4S/FM4LKAQXVJC8YT9X70MGV1.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/0/Q4/SU5NVAZ13LCM9FRDV3LCF1.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/9/IL/8ITBE4LBNVJYGS2FOSX8RV.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/UI/WB_Level1.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/Potat/BP_Potat.uasset"
-=======
-				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/StatusEffectEnemy/Level1/BP_Chilli.uasset",
-				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/BossLevelIni.umap",
-				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/Boss/BP_ChilliHand.uasset",
-				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Level1.umap",
-				"/Users/racheladeline/Documents/GitHub/Potato-after-incident/Content/Asset/Enemies/WalkingRangedEnemy/BP_WalkingRanged.uasset"
->>>>>>> Stashed changes
+				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/BUFFS/Buffs/BP_BuffBase.uasset",
+				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/UI/WB_BuffUI.uasset"
 			]
 		}
 	]
