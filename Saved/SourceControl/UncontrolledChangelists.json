@@ -6,7 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/BUFFS/Buffs/BP_BuffBase.uasset",
-				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/UI/WB_BuffUI.uasset"
+				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/UI/WB_BuffUI.uasset",
+				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/NPCs/Lettuce/WB_LettuceDialogue.uasset",
+				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/__ExternalActors__/MainLevel/7/7J/NW6P8J2ADE2QJDJ6GQ6AR8.uasset",
+				"C:/Users/msi/Documents/GitHub/Potato-after-incident/Content/Asset/NPCs/Lettuce/lettuce_dialogue.uasset"
 			]
 		}
 	]
