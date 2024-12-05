@@ -7526,3 +7526,6 @@ Please edit the Parameters Panel version to change in all locations.
 [2024.12.05-06.16.53:214][851]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
 [2024.12.05-06.16.53:220][851]LogXGEController: Cleaning working directory: C:/Users/msi/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2024.12.05-06.16.53:230][851]LogPakFile: Destroying PakPlatformFile
+[2024.12.05-06.16.53:433][851]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.12.05-06.16.53:457][851]LogExit: Exiting.
+[2024.12.05-06.16.53:480][851]Log file closed, 12/05/24 13:16:53
